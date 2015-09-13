@@ -1,5 +1,7 @@
 {
   "run_list": [
+  "role[java]",
+  "recipe[java]",
   "recipe[hadoop::hadoop]",
   "recipe[hadoop::hbase]",
   "recipe[hadoop::hive]",

@@ -1,5 +1,5 @@
-file_cache_path "/home/ubuntu/chef-solo"
-cookbook_path "/home/ubuntu/chef-repo/cookbooks"
-role_path "/home/ubuntu/chef-repo/roles"
+file_cache_path "/home/chris/chef-solo"
+cookbook_path "/home/chris/chef-repo/cookbooks"
+role_path "/home/chris/chef-repo/roles"
 verify_api_cert true
 
